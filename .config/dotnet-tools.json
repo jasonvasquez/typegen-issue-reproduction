@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "dotnet-typegen": {
+      "version": "4.0.1",
+      "commands": [
+        "dotnet-typegen"
+      ]
+    }
+  }
+}

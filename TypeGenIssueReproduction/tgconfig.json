@@ -1,0 +1,7 @@
+{
+  "outputPath": "../nodejs/src/generated",
+  "generationSpecs": [
+    "TypescriptGenerationSpec"
+  ],
+  "tabLength": 2
+}
